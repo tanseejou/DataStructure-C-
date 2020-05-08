@@ -20,6 +20,7 @@ The system store - book title, author, and price, alphabetically.
 
 
 This is a group project. 
-Group members:  Soh Jia Jun
-                Tan Shi Xuan
-                Tan See Jou
+Group members:  
+- Soh Jia Jun
+- Tan Shi Xuan
+- Tan See Jou
