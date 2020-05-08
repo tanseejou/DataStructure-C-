@@ -1,4 +1,4 @@
-# DataStructure-C-
+# DataStructure-C++
 A book store management system program that implement data structure concept and write with C++ language. 
 
 # Type of Data Structure implement
